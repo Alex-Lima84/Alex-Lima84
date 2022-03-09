@@ -1,7 +1,7 @@
 SEJA BEM-VINDO(A) AO MEU PERFIL! 😁
 <div></div>
 WELCOME TO MY PROFILE! 😁
-
+<div></div>
  <div>
   <a href="https://github.com/Alex-Lima84">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Lima84&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
