@@ -1,4 +1,5 @@
 SEJA BEM-VINDO(A) AO MEU PERFIL! 😁
+WELCOME TO MY PROFILE! 😁
 
  <div>
   <a href="https://github.com/Alex-Lima84">
@@ -12,11 +13,7 @@ SEJA BEM-VINDO(A) AO MEU PERFIL! 😁
    <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 
  </div>
- 
- <br>
- 
- ### Siga-me nas redes sociais
- 
+
 <div> 
    <a href="https://instagram.com/alexandreluizcl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:alexandre.cerutti@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
