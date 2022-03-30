@@ -4,7 +4,7 @@ LANGUAGES: Português - English - Español;
 
  <div>
   <a href="https://github.com/Alex-Lima84">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Lima84&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=Alex-Lima84&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lima84&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
 <div style="display: inline_block"><br>
