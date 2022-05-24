@@ -9,7 +9,7 @@ LANGUAGES: Português - English - Español;
 </div>
 <div style="display: inline_block"><br>
  
-LEARNING
+TECHNOLOGIES
 <div>
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
